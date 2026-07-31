@@ -1,0 +1,78 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# C/C++ build outputs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.class
+*.dSYM/
+
+# Build directories
+build/
+dist/
+out/
+Debug/
+Release/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Extracted document/archive scratch directories
+**/_docx_extract/
+**/extracted/
+
+# Local TeX/tool binaries
+tectonic/
+
+# OS/161 generated build/install output
+Lab/OS 161 Setup/OSLab/polito_os161/os161/src/kern/compile/
+Lab/OS 161 Setup/OSLab/polito_os161/os161/src/**/build
+Lab/OS 161 Setup/OSLab/polito_os161/os161/root/
+Lab/OS 161 Setup/OSLab/polito_os161/os161/tools/
+
+# OS/161 simulator/runtime artifacts
+*.disk
+*.img
+*.core
+core
+typescript

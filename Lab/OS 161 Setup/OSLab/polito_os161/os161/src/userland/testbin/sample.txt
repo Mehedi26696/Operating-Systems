@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Line two: OS/161 file operations test data.
+Line three: read, write, append, copy, link.
+1234567890 !@#$%^&*() end of sample.

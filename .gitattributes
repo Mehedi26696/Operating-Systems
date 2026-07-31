@@ -1,0 +1,29 @@
+# Default text handling
+* text=auto
+
+# Keep source and build scripts LF, especially for OS/161/Linux tooling.
+*.c text eol=lf
+*.h text eol=lf
+*.S text eol=lf
+*.s text eol=lf
+*.sh text eol=lf
+*.mk text eol=lf
+Makefile text eol=lf
+**/Makefile text eol=lf
+
+# Coursework text files
+*.md text eol=lf
+*.tex text eol=lf
+*.txt text eol=lf
+
+# Binary assets and archives
+*.pdf binary
+*.docx binary
+*.zip binary
+*.tar.gz binary
+*.gz binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.exe binary

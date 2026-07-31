@@ -1,0 +1,17 @@
+Enter number of processes: 4
+Enter number of resource types: 3
+
+Existing Resources:
+9 5 7
+
+Allocation Matrix:
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+
+Maximum Demand Matrix:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
